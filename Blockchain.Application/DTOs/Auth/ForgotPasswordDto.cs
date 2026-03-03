@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Blockchain.Application.DTOs.Auth
+{
+    public class ForgotPasswordDto
+    {
+        public string Email { get; set; } = string.Empty;
+    }
+
+    public class ResetPasswordDto
+    {
+        public string Email { get; set; } = string.Empty;
+        public string Token { get; set; } = string.Empty;
+        public string NewPassword { get; set; } = string.Empty;
+        public string ConfirmPassword { get; set; } = string.Empty;
+    }
+
+    public class ChangePasswordDto
+    {
+        public string CurrentPassword { get; set; } = string.Empty;
+        public string NewPassword { get; set; } = string.Empty;
+        public string ConfirmPassword { get; set; } = string.Empty;
+    }
+
+    public class RefreshTokenDto
+    {
+        public string AccessToken { get; set; } = string.Empty;
+        public string RefreshToken { get; set; } = string.Empty;
+    }
+}

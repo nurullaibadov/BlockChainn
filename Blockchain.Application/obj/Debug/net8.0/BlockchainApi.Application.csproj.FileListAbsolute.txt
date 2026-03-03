@@ -1,0 +1,15 @@
+C:\Users\ibadn\OneDrive\İş masası\BlockchainFixed\Blockchain.Application\obj\Debug\net8.0\BlockchainApi.Application.csproj.AssemblyReference.cache
+C:\Users\ibadn\OneDrive\İş masası\BlockchainFixed\Blockchain.Application\obj\Debug\net8.0\BlockchainApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibadn\OneDrive\İş masası\BlockchainFixed\Blockchain.Application\obj\Debug\net8.0\BlockchainApi.Application.AssemblyInfoInputs.cache
+C:\Users\ibadn\OneDrive\İş masası\BlockchainFixed\Blockchain.Application\obj\Debug\net8.0\BlockchainApi.Application.AssemblyInfo.cs
+C:\Users\ibadn\OneDrive\İş masası\BlockchainFixed\Blockchain.Application\obj\Debug\net8.0\BlockchainApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\ibadn\OneDrive\İş masası\BlockchainFixed\Blockchain.Application\bin\Debug\net8.0\BlockchainApi.Application.deps.json
+C:\Users\ibadn\OneDrive\İş masası\BlockchainFixed\Blockchain.Application\bin\Debug\net8.0\BlockchainApi.Application.dll
+C:\Users\ibadn\OneDrive\İş masası\BlockchainFixed\Blockchain.Application\bin\Debug\net8.0\BlockchainApi.Application.pdb
+C:\Users\ibadn\OneDrive\İş masası\BlockchainFixed\Blockchain.Application\bin\Debug\net8.0\BlockchainApi.Domain.dll
+C:\Users\ibadn\OneDrive\İş masası\BlockchainFixed\Blockchain.Application\bin\Debug\net8.0\BlockchainApi.Domain.pdb
+C:\Users\ibadn\OneDrive\İş masası\BlockchainFixed\Blockchain.Application\obj\Debug\net8.0\Blockcha.EE77CDA6.Up2Date
+C:\Users\ibadn\OneDrive\İş masası\BlockchainFixed\Blockchain.Application\obj\Debug\net8.0\BlockchainApi.Application.dll
+C:\Users\ibadn\OneDrive\İş masası\BlockchainFixed\Blockchain.Application\obj\Debug\net8.0\refint\BlockchainApi.Application.dll
+C:\Users\ibadn\OneDrive\İş masası\BlockchainFixed\Blockchain.Application\obj\Debug\net8.0\BlockchainApi.Application.pdb
+C:\Users\ibadn\OneDrive\İş masası\BlockchainFixed\Blockchain.Application\obj\Debug\net8.0\ref\BlockchainApi.Application.dll

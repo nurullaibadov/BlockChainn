@@ -1,0 +1,1572 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|solutionrelative:blockchain.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.infrastructure\\migrations\\20260303120022_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|solutionrelative:blockchain.infrastructure\\migrations\\20260303120022_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.infrastructure\\data\\configurations\\transactionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|solutionrelative:blockchain.infrastructure\\data\\configurations\\transactionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Migrations\\20260303115732_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Blockchain.Infrastructure\\Migrations\\20260303115732_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|solutionrelative:blockchain.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|solutionrelative:blockchain.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.api\\hangfire\\hangfireauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|solutionrelative:blockchain.api\\hangfire\\hangfireauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Migrations\\20260303114654_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Blockchain.Infrastructure\\Migrations\\20260303114654_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.infrastructure\\services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|solutionrelative:blockchain.infrastructure\\services\\encryptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.infrastructure\\services\\hubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|solutionrelative:blockchain.infrastructure\\services\\hubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.application\\dtos\\transaction\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|solutionrelative:blockchain.application\\dtos\\transaction\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|solutionrelative:blockchain.infrastructure\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ibadn\\source\\repos\\NewRepo2\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.application\\interfaces\\iwalletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|solutionrelative:blockchain.application\\interfaces\\iwalletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.application\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|solutionrelative:blockchain.application\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|solutionrelative:blockchain.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.application\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|solutionrelative:blockchain.application\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.application\\interfaces\\ismartcontractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|solutionrelative:blockchain.application\\interfaces\\ismartcontractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|solutionrelative:blockchain.application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.application\\common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|solutionrelative:blockchain.application\\common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.domain\\entities\\blockchaintx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|solutionrelative:blockchain.domain\\entities\\blockchaintx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|solutionrelative:blockchain.domain\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.api\\blockchainapi.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|solutionrelative:blockchain.api\\blockchainapi.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.infrastructure\\blockchainapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|solutionrelative:blockchain.infrastructure\\blockchainapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.application\\blockchainapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|solutionrelative:blockchain.application\\blockchainapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.domain\\blockchainapi.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|solutionrelative:blockchain.domain\\blockchainapi.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.domain\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|solutionrelative:blockchain.domain\\enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.api\\controllers\\blockchaincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|solutionrelative:blockchain.api\\controllers\\blockchaincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|solutionrelative:blockchain.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|solutionrelative:blockchain.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|solutionrelative:blockchain.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.domain\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|solutionrelative:blockchain.domain\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.application\\behaviors\\performancebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|solutionrelative:blockchain.application\\behaviors\\performancebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.application\\behaviors\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|solutionrelative:blockchain.application\\behaviors\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|solutionrelative:blockchain.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.infrastructure\\services\\auditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|solutionrelative:blockchain.infrastructure\\services\\auditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|solutionrelative:blockchain.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.infrastructure\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|solutionrelative:blockchain.infrastructure\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|solutionrelative:blockchain.infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.infrastructure\\services\\blockchainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|solutionrelative:blockchain.infrastructure\\services\\blockchainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.infrastructure\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|solutionrelative:blockchain.infrastructure\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.infrastructure\\services\\smartcontractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|solutionrelative:blockchain.infrastructure\\services\\smartcontractservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|solutionrelative:blockchain.infrastructure\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.infrastructure\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|solutionrelative:blockchain.infrastructure\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|solutionrelative:blockchain.infrastructure\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.domain\\entities\\contractinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|solutionrelative:blockchain.domain\\entities\\contractinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.api\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|solutionrelative:blockchain.api\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.api\\controllers\\smartcontractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|solutionrelative:blockchain.api\\controllers\\smartcontractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.api\\controllers\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|solutionrelative:blockchain.api\\controllers\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.infrastructure\\services\\walletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|solutionrelative:blockchain.infrastructure\\services\\walletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.domain\\entities\\smartcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|solutionrelative:blockchain.domain\\entities\\smartcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.domain\\entities\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|solutionrelative:blockchain.domain\\entities\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.application\\dtos\\contract\\smartcontractdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|solutionrelative:blockchain.application\\dtos\\contract\\smartcontractdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|solutionrelative:blockchain.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|solutionrelative:blockchain.api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.infrastructure\\data\\configurations\\smartcontractconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|solutionrelative:blockchain.infrastructure\\data\\configurations\\smartcontractconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|solutionrelative:blockchain.api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|solutionrelative:blockchain.domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|solutionrelative:blockchain.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.application\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|solutionrelative:blockchain.application\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.infrastructure\\data\\configurations\\walletconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|solutionrelative:blockchain.infrastructure\\data\\configurations\\walletconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.application\\dtos\\wallet\\walletdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|solutionrelative:blockchain.application\\dtos\\wallet\\walletdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.domain\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|solutionrelative:blockchain.domain\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|solutionrelative:blockchain.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.api\\authorization\\superadminrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|solutionrelative:blockchain.api\\authorization\\superadminrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.api\\authorization\\adminrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|solutionrelative:blockchain.api\\authorization\\adminrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|solutionrelative:blockchain.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.application\\interfaces\\ihubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|solutionrelative:blockchain.application\\interfaces\\ihubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.api\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|solutionrelative:blockchain.api\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.api\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|solutionrelative:blockchain.api\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD819FA1-7913-7B87-46FA-77ECE0AF143C}|Blockchain.API\\BlockchainApi.API.csproj|solutionrelative:blockchain.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.infrastructure\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|solutionrelative:blockchain.infrastructure\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60E4D85-D5BE-6794-40EF-0102AFC55A54}|Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj|solutionrelative:blockchain.infrastructure\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.application\\validators\\transaction\\sendtransactionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|solutionrelative:blockchain.application\\validators\\transaction\\sendtransactionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.application\\validators\\auth\\loginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|solutionrelative:blockchain.application\\validators\\auth\\loginvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.application\\validators\\auth\\registervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|solutionrelative:blockchain.application\\validators\\auth\\registervalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.application\\dtos\\auth\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|solutionrelative:blockchain.application\\dtos\\auth\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.application\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|solutionrelative:blockchain.application\\dtos\\auth\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.application\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|solutionrelative:blockchain.application\\dtos\\auth\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.application\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|solutionrelative:blockchain.application\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.application\\common\\paginationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|solutionrelative:blockchain.application\\common\\paginationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.application\\common\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAC7A552-38D7-1D18-7793-7A5A58A23CFE}|Blockchain.Application\\BlockchainApi.Application.csproj|solutionrelative:blockchain.application\\common\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.domain\\interfaces\\iauditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|solutionrelative:blockchain.domain\\interfaces\\iauditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.domain\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|solutionrelative:blockchain.domain\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.domain\\interfaces\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|solutionrelative:blockchain.domain\\interfaces\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.domain\\interfaces\\iblockchainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|solutionrelative:blockchain.domain\\interfaces\\iblockchainservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|solutionrelative:blockchain.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|solutionrelative:blockchain.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.domain\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|solutionrelative:blockchain.domain\\entities\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.domain\\common\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|solutionrelative:blockchain.domain\\common\\baseauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|c:\\users\\ibadn\\onedrive\\\u0130\u015F masas\u0131\\blockchainfixed\\blockchain.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B8B0C4-1EEC-27D7-9B1E-F5704116AF53}|Blockchain.Domain\\BlockchainApi.Domain.csproj|solutionrelative:blockchain.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260303120022_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Migrations\\20260303120022_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Blockchain.Infrastructure\\Migrations\\20260303120022_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Migrations\\20260303120022_InitialCreate.cs",
+              "RelativeToolTip": "Blockchain.Infrastructure\\Migrations\\20260303120022_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:00:23.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260303115732_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Migrations\\20260303115732_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Blockchain.Infrastructure\\Migrations\\20260303115732_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Migrations\\20260303115732_InitialCreate.cs",
+              "RelativeToolTip": "Blockchain.Infrastructure\\Migrations\\20260303115732_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T11:57:32.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Blockchain.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\appsettings.json",
+              "RelativeToolTip": "Blockchain.API\\appsettings.json",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-03T08:58:41.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Program.cs",
+              "RelativeDocumentMoniker": "Blockchain.API\\Program.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Program.cs*",
+              "RelativeToolTip": "Blockchain.API\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:30:57.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HangfireAuthFilter.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Hangfire\\HangfireAuthFilter.cs",
+              "RelativeDocumentMoniker": "Blockchain.API\\Hangfire\\HangfireAuthFilter.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Hangfire\\HangfireAuthFilter.cs",
+              "RelativeToolTip": "Blockchain.API\\Hangfire\\HangfireAuthFilter.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwAoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:31:30.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Data\\Configurations\\TransactionConfiguration.cs",
+              "RelativeDocumentMoniker": "Blockchain.Infrastructure\\Data\\Configurations\\TransactionConfiguration.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Data\\Configurations\\TransactionConfiguration.cs",
+              "RelativeToolTip": "Blockchain.Infrastructure\\Data\\Configurations\\TransactionConfiguration.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:21:52.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EncryptionService.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Services\\EncryptionService.cs",
+              "RelativeDocumentMoniker": "Blockchain.Infrastructure\\Services\\EncryptionService.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Services\\EncryptionService.cs",
+              "RelativeToolTip": "Blockchain.Infrastructure\\Services\\EncryptionService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAjwCIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:23:49.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Blockchain.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Blockchain.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAnwCAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:26:11.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260303114654_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Migrations\\20260303114654_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Blockchain.Infrastructure\\Migrations\\20260303114654_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Migrations\\20260303114654_InitialCreate.cs",
+              "RelativeToolTip": "Blockchain.Infrastructure\\Migrations\\20260303114654_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T11:46:54.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HubService.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Services\\HubService.cs",
+              "RelativeDocumentMoniker": "Blockchain.Infrastructure\\Services\\HubService.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Services\\HubService.cs",
+              "RelativeToolTip": "Blockchain.Infrastructure\\Services\\HubService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:33:16.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionDto.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\DTOs\\Transaction\\TransactionDto.cs",
+              "RelativeDocumentMoniker": "Blockchain.Application\\DTOs\\Transaction\\TransactionDto.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\DTOs\\Transaction\\TransactionDto.cs",
+              "RelativeToolTip": "Blockchain.Application\\DTOs\\Transaction\\TransactionDto.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAewBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:17:12.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Interfaces\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "Blockchain.Application\\Interfaces\\ITransactionService.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Interfaces\\ITransactionService.cs",
+              "RelativeToolTip": "Blockchain.Application\\Interfaces\\ITransactionService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAxwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:20:03.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Blockchain.Application\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Blockchain.Application\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA3wBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:19:40.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Blockchain.Infrastructure\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Services\\AuthService.cs",
+              "RelativeToolTip": "Blockchain.Infrastructure\\Services\\AuthService.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAIBZwLwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:24:03.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ISmartContractService.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Interfaces\\ISmartContractService.cs",
+              "RelativeDocumentMoniker": "Blockchain.Application\\Interfaces\\ISmartContractService.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Interfaces\\ISmartContractService.cs",
+              "RelativeToolTip": "Blockchain.Application\\Interfaces\\ISmartContractService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA4wBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:20:14.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Interfaces\\INotificationService.cs",
+              "RelativeDocumentMoniker": "Blockchain.Application\\Interfaces\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Interfaces\\INotificationService.cs",
+              "RelativeToolTip": "Blockchain.Application\\Interfaces\\INotificationService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBZwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:20:39.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Blockchain.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Blockchain.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA3wBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:20:28.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IWalletService.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Interfaces\\IWalletService.cs",
+              "RelativeDocumentMoniker": "Blockchain.Application\\Interfaces\\IWalletService.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Interfaces\\IWalletService.cs",
+              "RelativeToolTip": "Blockchain.Application\\Interfaces\\IWalletService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAxwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:19:52.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Common\\Result.cs",
+              "RelativeDocumentMoniker": "Blockchain.Application\\Common\\Result.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Common\\Result.cs",
+              "RelativeToolTip": "Blockchain.Application\\Common\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:10:29.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BlockchainTx.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Entities\\BlockchainTx.cs",
+              "RelativeDocumentMoniker": "Blockchain.Domain\\Entities\\BlockchainTx.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Entities\\BlockchainTx.cs",
+              "RelativeToolTip": "Blockchain.Domain\\Entities\\BlockchainTx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T10:59:55.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Blockchain.Domain\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Entities\\AppUser.cs",
+              "RelativeToolTip": "Blockchain.Domain\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA8wAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:03:00.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BlockchainApi.API.csproj",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\BlockchainApi.API.csproj",
+              "RelativeDocumentMoniker": "Blockchain.API\\BlockchainApi.API.csproj",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\BlockchainApi.API.csproj",
+              "RelativeToolTip": "Blockchain.API\\BlockchainApi.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T09:40:53.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BlockchainApi.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj",
+              "RelativeToolTip": "Blockchain.Infrastructure\\BlockchainApi.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T09:44:27.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BlockchainApi.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\BlockchainApi.Application.csproj",
+              "RelativeDocumentMoniker": "Blockchain.Application\\BlockchainApi.Application.csproj",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\BlockchainApi.Application.csproj",
+              "RelativeToolTip": "Blockchain.Application\\BlockchainApi.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T09:20:52.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BlockchainApi.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\BlockchainApi.Domain.csproj",
+              "RelativeDocumentMoniker": "Blockchain.Domain\\BlockchainApi.Domain.csproj",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\BlockchainApi.Domain.csproj",
+              "RelativeToolTip": "Blockchain.Domain\\BlockchainApi.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T08:59:03.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Enums\\Enums.cs",
+              "RelativeDocumentMoniker": "Blockchain.Domain\\Enums\\Enums.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Enums\\Enums.cs",
+              "RelativeToolTip": "Blockchain.Domain\\Enums\\Enums.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAgwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:08:14.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": ".gitattributes",
+              "DocumentMoniker": "C:\\Users\\ibadn\\source\\repos\\NewRepo2\\.gitattributes",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\NewRepo2\\.gitattributes",
+              "ToolTip": "C:\\Users\\ibadn\\source\\repos\\NewRepo2\\.gitattributes",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\NewRepo2\\.gitattributes",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-03T10:11:19.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BlockchainController.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Controllers\\BlockchainController.cs",
+              "RelativeDocumentMoniker": "Blockchain.API\\Controllers\\BlockchainController.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Controllers\\BlockchainController.cs",
+              "RelativeToolTip": "Blockchain.API\\Controllers\\BlockchainController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAjwA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:29:51.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Blockchain.API\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Blockchain.API\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAewCkAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:29:33.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Blockchain.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Blockchain.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAewA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:27:37.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Blockchain.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Blockchain.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAewA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:29:05.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Blockchain.Domain\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "Blockchain.Domain\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:09:26.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PerformanceBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Behaviors\\PerformanceBehavior.cs",
+              "RelativeDocumentMoniker": "Blockchain.Application\\Behaviors\\PerformanceBehavior.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Behaviors\\PerformanceBehavior.cs",
+              "RelativeToolTip": "Blockchain.Application\\Behaviors\\PerformanceBehavior.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAewA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:34:03.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoggingBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Behaviors\\LoggingBehavior.cs",
+              "RelativeDocumentMoniker": "Blockchain.Application\\Behaviors\\LoggingBehavior.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Behaviors\\LoggingBehavior.cs",
+              "RelativeToolTip": "Blockchain.Application\\Behaviors\\LoggingBehavior.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAjwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:33:51.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Blockchain.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Blockchain.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:22:26.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AuditService.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Services\\AuditService.cs",
+              "RelativeDocumentMoniker": "Blockchain.Infrastructure\\Services\\AuditService.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Services\\AuditService.cs",
+              "RelativeToolTip": "Blockchain.Infrastructure\\Services\\AuditService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAnwBwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:25:27.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Blockchain.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Blockchain.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAjwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:21:18.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "Blockchain.Infrastructure\\Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "Blockchain.Infrastructure\\Data\\DbSeeder.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAnwCMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:31:53.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Blockchain.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Blockchain.Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAMwB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:22:39.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BlockchainService.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Services\\BlockchainService.cs",
+              "RelativeDocumentMoniker": "Blockchain.Infrastructure\\Services\\BlockchainService.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Services\\BlockchainService.cs",
+              "RelativeToolTip": "Blockchain.Infrastructure\\Services\\BlockchainService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAewCIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:23:25.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Blockchain.Infrastructure\\Services\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Services\\NotificationService.cs",
+              "RelativeToolTip": "Blockchain.Infrastructure\\Services\\NotificationService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAjwA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:25:41.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SmartContractService.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Services\\SmartContractService.cs",
+              "RelativeDocumentMoniker": "Blockchain.Infrastructure\\Services\\SmartContractService.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Services\\SmartContractService.cs",
+              "RelativeToolTip": "Blockchain.Infrastructure\\Services\\SmartContractService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAjwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:25:53.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Blockchain.Infrastructure\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Services\\TokenService.cs",
+              "RelativeToolTip": "Blockchain.Infrastructure\\Services\\TokenService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAjwB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:22:58.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "Blockchain.Infrastructure\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Services\\TransactionService.cs",
+              "RelativeToolTip": "Blockchain.Infrastructure\\Services\\TransactionService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAjwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:24:35.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Blockchain.Infrastructure\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Services\\UserService.cs",
+              "RelativeToolTip": "Blockchain.Infrastructure\\Services\\UserService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAjwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:25:13.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ContractInteraction.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Entities\\ContractInteraction.cs",
+              "RelativeDocumentMoniker": "Blockchain.Domain\\Entities\\ContractInteraction.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Entities\\ContractInteraction.cs",
+              "RelativeToolTip": "Blockchain.Domain\\Entities\\ContractInteraction.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA9wBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:07:15.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "Blockchain.API\\Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "Blockchain.API\\Controllers\\NotificationController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAewBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:29:19.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SmartContractController.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Controllers\\SmartContractController.cs",
+              "RelativeDocumentMoniker": "Blockchain.API\\Controllers\\SmartContractController.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Controllers\\SmartContractController.cs",
+              "RelativeToolTip": "Blockchain.API\\Controllers\\SmartContractController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAnwBAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:28:39.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "WalletController.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Controllers\\WalletController.cs",
+              "RelativeDocumentMoniker": "Blockchain.API\\Controllers\\WalletController.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Controllers\\WalletController.cs",
+              "RelativeToolTip": "Blockchain.API\\Controllers\\WalletController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAjwA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:27:57.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "WalletService.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Services\\WalletService.cs",
+              "RelativeDocumentMoniker": "Blockchain.Infrastructure\\Services\\WalletService.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Services\\WalletService.cs",
+              "RelativeToolTip": "Blockchain.Infrastructure\\Services\\WalletService.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAEwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:24:19.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SmartContract.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Entities\\SmartContract.cs",
+              "RelativeDocumentMoniker": "Blockchain.Domain\\Entities\\SmartContract.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Entities\\SmartContract.cs",
+              "RelativeToolTip": "Blockchain.Domain\\Entities\\SmartContract.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA9wBMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:07:00.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Entities\\Block.cs",
+              "RelativeDocumentMoniker": "Blockchain.Domain\\Entities\\Block.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Entities\\Block.cs",
+              "RelativeToolTip": "Blockchain.Domain\\Entities\\Block.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIA9wBUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:06:40.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SmartContractDto.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\DTOs\\Contract\\SmartContractDto.cs",
+              "RelativeDocumentMoniker": "Blockchain.Application\\DTOs\\Contract\\SmartContractDto.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\DTOs\\Contract\\SmartContractDto.cs",
+              "RelativeToolTip": "Blockchain.Application\\DTOs\\Contract\\SmartContractDto.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAD4vx4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:17:30.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "Blockchain.Domain\\Entities\\Notification.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Entities\\Notification.cs",
+              "RelativeToolTip": "Blockchain.Domain\\Entities\\Notification.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIA/wBEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:07:46.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "Blockchain.API\\Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "Blockchain.API\\Controllers\\BaseApiController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAWwBMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:27:21.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "SmartContractConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Data\\Configurations\\SmartContractConfiguration.cs",
+              "RelativeDocumentMoniker": "Blockchain.Infrastructure\\Data\\Configurations\\SmartContractConfiguration.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Data\\Configurations\\SmartContractConfiguration.cs",
+              "RelativeToolTip": "Blockchain.Infrastructure\\Data\\Configurations\\SmartContractConfiguration.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAjwA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:22:06.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "Blockchain.API\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "Blockchain.API\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAEwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:28:23.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "Blockchain.Domain\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Entities\\Transaction.cs",
+              "RelativeToolTip": "Blockchain.Domain\\Entities\\Transaction.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAIA9wBoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:06:28.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Blockchain.Application\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Blockchain.Application\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAewBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:19:19.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\DTOs\\User\\UserDto.cs",
+              "RelativeDocumentMoniker": "Blockchain.Application\\DTOs\\User\\UserDto.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\DTOs\\User\\UserDto.cs",
+              "RelativeToolTip": "Blockchain.Application\\DTOs\\User\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:17:56.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "WalletConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Data\\Configurations\\WalletConfiguration.cs",
+              "RelativeDocumentMoniker": "Blockchain.Infrastructure\\Data\\Configurations\\WalletConfiguration.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Data\\Configurations\\WalletConfiguration.cs",
+              "RelativeToolTip": "Blockchain.Infrastructure\\Data\\Configurations\\WalletConfiguration.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAewA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:21:36.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "WalletDto.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\DTOs\\Wallet\\WalletDto.cs",
+              "RelativeDocumentMoniker": "Blockchain.Application\\DTOs\\Wallet\\WalletDto.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\DTOs\\Wallet\\WalletDto.cs",
+              "RelativeToolTip": "Blockchain.Application\\DTOs\\Wallet\\WalletDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA9wBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:16:27.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Entities\\Wallet.cs",
+              "RelativeDocumentMoniker": "Blockchain.Domain\\Entities\\Wallet.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Entities\\Wallet.cs",
+              "RelativeToolTip": "Blockchain.Domain\\Entities\\Wallet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:06:00.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Blockchain.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Blockchain.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAjwBEAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:20:57.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "SuperAdminRequirement.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Authorization\\SuperAdminRequirement.cs",
+              "RelativeDocumentMoniker": "Blockchain.API\\Authorization\\SuperAdminRequirement.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Authorization\\SuperAdminRequirement.cs",
+              "RelativeToolTip": "Blockchain.API\\Authorization\\SuperAdminRequirement.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:34:41.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AdminRequirement.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Authorization\\AdminRequirement.cs",
+              "RelativeDocumentMoniker": "Blockchain.API\\Authorization\\AdminRequirement.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Authorization\\AdminRequirement.cs",
+              "RelativeToolTip": "Blockchain.API\\Authorization\\AdminRequirement.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:34:29.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "Blockchain.Application\\Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "Blockchain.Application\\Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:33:38.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IHubService.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Interfaces\\IHubService.cs",
+              "RelativeDocumentMoniker": "Blockchain.Application\\Interfaces\\IHubService.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Interfaces\\IHubService.cs",
+              "RelativeToolTip": "Blockchain.Application\\Interfaces\\IHubService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:32:59.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Hubs\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "Blockchain.API\\Hubs\\NotificationHub.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Hubs\\NotificationHub.cs",
+              "RelativeToolTip": "Blockchain.API\\Hubs\\NotificationHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:32:28.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Blockchain.API\\Middleware\\RequestLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "Blockchain.API\\Middleware\\RequestLoggingMiddleware.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:30:33.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Blockchain.API\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Blockchain.API\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:30:21.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Services\\CacheService.cs",
+              "RelativeDocumentMoniker": "Blockchain.Infrastructure\\Services\\CacheService.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Services\\CacheService.cs",
+              "RelativeToolTip": "Blockchain.Infrastructure\\Services\\CacheService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:23:39.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Blockchain.Infrastructure\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Infrastructure\\Services\\EmailService.cs",
+              "RelativeToolTip": "Blockchain.Infrastructure\\Services\\EmailService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:23:12.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "SendTransactionValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Validators\\Transaction\\SendTransactionValidator.cs",
+              "RelativeDocumentMoniker": "Blockchain.Application\\Validators\\Transaction\\SendTransactionValidator.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Validators\\Transaction\\SendTransactionValidator.cs",
+              "RelativeToolTip": "Blockchain.Application\\Validators\\Transaction\\SendTransactionValidator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:19:01.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "LoginValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Validators\\Auth\\LoginValidator.cs",
+              "RelativeDocumentMoniker": "Blockchain.Application\\Validators\\Auth\\LoginValidator.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Validators\\Auth\\LoginValidator.cs",
+              "RelativeToolTip": "Blockchain.Application\\Validators\\Auth\\LoginValidator.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:18:40.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "RegisterValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Validators\\Auth\\RegisterValidator.cs",
+              "RelativeDocumentMoniker": "Blockchain.Application\\Validators\\Auth\\RegisterValidator.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Validators\\Auth\\RegisterValidator.cs",
+              "RelativeToolTip": "Blockchain.Application\\Validators\\Auth\\RegisterValidator.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:18:28.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ForgotPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\DTOs\\Auth\\ForgotPasswordDto.cs",
+              "RelativeDocumentMoniker": "Blockchain.Application\\DTOs\\Auth\\ForgotPasswordDto.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\DTOs\\Auth\\ForgotPasswordDto.cs",
+              "RelativeToolTip": "Blockchain.Application\\DTOs\\Auth\\ForgotPasswordDto.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA/wCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:16:07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "Blockchain.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "RelativeToolTip": "Blockchain.Application\\DTOs\\Auth\\AuthResponseDto.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA0wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:15:51.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Blockchain.Application\\DTOs\\Auth\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\DTOs\\Auth\\LoginDto.cs",
+              "RelativeToolTip": "Blockchain.Application\\DTOs\\Auth\\LoginDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:15:39.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\DTOs\\Auth\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Blockchain.Application\\DTOs\\Auth\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\DTOs\\Auth\\RegisterDto.cs",
+              "RelativeToolTip": "Blockchain.Application\\DTOs\\Auth\\RegisterDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA3wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:15:27.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "PaginationQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Common\\PaginationQuery.cs",
+              "RelativeDocumentMoniker": "Blockchain.Application\\Common\\PaginationQuery.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Common\\PaginationQuery.cs",
+              "RelativeToolTip": "Blockchain.Application\\Common\\PaginationQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:10:53.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Common\\PagedResult.cs",
+              "RelativeDocumentMoniker": "Blockchain.Application\\Common\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Application\\Common\\PagedResult.cs",
+              "RelativeToolTip": "Blockchain.Application\\Common\\PagedResult.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA3wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:10:41.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "IAuditService.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Interfaces\\IAuditService.cs",
+              "RelativeDocumentMoniker": "Blockchain.Domain\\Interfaces\\IAuditService.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Interfaces\\IAuditService.cs",
+              "RelativeToolTip": "Blockchain.Domain\\Interfaces\\IAuditService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:10:01.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Blockchain.Domain\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "Blockchain.Domain\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:09:51.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Interfaces\\ICacheService.cs",
+              "RelativeDocumentMoniker": "Blockchain.Domain\\Interfaces\\ICacheService.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Interfaces\\ICacheService.cs",
+              "RelativeToolTip": "Blockchain.Domain\\Interfaces\\ICacheService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:09:39.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "IBlockchainService.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Interfaces\\IBlockchainService.cs",
+              "RelativeDocumentMoniker": "Blockchain.Domain\\Interfaces\\IBlockchainService.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Interfaces\\IBlockchainService.cs",
+              "RelativeToolTip": "Blockchain.Domain\\Interfaces\\IBlockchainService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA3wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:09:12.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Blockchain.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Blockchain.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA0wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:08:55.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Blockchain.Domain\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Blockchain.Domain\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:08:41.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Entities\\AuditLog.cs",
+              "RelativeDocumentMoniker": "Blockchain.Domain\\Entities\\AuditLog.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Entities\\AuditLog.cs",
+              "RelativeToolTip": "Blockchain.Domain\\Entities\\AuditLog.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:07:31.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "BaseAuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Common\\BaseAuditableEntity.cs",
+              "RelativeDocumentMoniker": "Blockchain.Domain\\Common\\BaseAuditableEntity.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Common\\BaseAuditableEntity.cs",
+              "RelativeToolTip": "Blockchain.Domain\\Common\\BaseAuditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:02:33.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Blockchain.Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ibadn\\OneDrive\\\u0130\u015F masas\u0131\\BlockchainFixed\\Blockchain.Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Blockchain.Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T08:59:21.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

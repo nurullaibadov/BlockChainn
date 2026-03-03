@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BlockchainApi.API</name>
+    </assembly>
+    <members>
+        <member name="T:Blockchain.API.Controllers.AdminController">
+            <summary>Admin panel — full user management</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.AdminController.GetUsers(Blockchain.Application.Common.PaginationQuery,System.Threading.CancellationToken)">
+            <summary>Get all users (paginated + search)</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.AdminController.GetUser(System.Guid,System.Threading.CancellationToken)">
+            <summary>Get user by ID</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.AdminController.CreateUser(Blockchain.Application.DTOs.User.AdminCreateUserDto,System.Threading.CancellationToken)">
+            <summary>Create user (admin)</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.AdminController.UpdateUser(System.Guid,Blockchain.Application.DTOs.User.AdminUpdateUserDto,System.Threading.CancellationToken)">
+            <summary>Update user</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.AdminController.DeleteUser(System.Guid,System.Threading.CancellationToken)">
+            <summary>Delete user</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.AdminController.BanUser(System.Guid,System.Threading.CancellationToken)">
+            <summary>Ban user</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.AdminController.UnbanUser(System.Guid,System.Threading.CancellationToken)">
+            <summary>Unban user</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.AdminController.GetUserTransactions(System.Guid,Blockchain.Application.Common.PaginationQuery,System.Threading.CancellationToken)">
+            <summary>Get transactions for a user</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.AdminController.GetUserWallets(System.Guid,Blockchain.Application.Common.PaginationQuery,System.Threading.CancellationToken)">
+            <summary>Get wallets for a user</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.AdminController.SyncTransactions(System.Threading.CancellationToken)">
+            <summary>Sync all pending transactions</summary>
+        </member>
+        <member name="T:Blockchain.API.Controllers.AuthController">
+            <summary>Authentication endpoints</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.AuthController.Register(Blockchain.Application.DTOs.Auth.RegisterDto,System.Threading.CancellationToken)">
+            <summary>Register new user</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.AuthController.Login(Blockchain.Application.DTOs.Auth.LoginDto,System.Threading.CancellationToken)">
+            <summary>Login with email and password</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.AuthController.RefreshToken(Blockchain.Application.DTOs.Auth.RefreshTokenDto,System.Threading.CancellationToken)">
+            <summary>Refresh access token</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.AuthController.Logout(System.Threading.CancellationToken)">
+            <summary>Logout current user</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.AuthController.ForgotPassword(Blockchain.Application.DTOs.Auth.ForgotPasswordDto,System.Threading.CancellationToken)">
+            <summary>Request password reset email</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.AuthController.ResetPassword(Blockchain.Application.DTOs.Auth.ResetPasswordDto,System.Threading.CancellationToken)">
+            <summary>Reset password with token</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.AuthController.ChangePassword(Blockchain.Application.DTOs.Auth.ChangePasswordDto,System.Threading.CancellationToken)">
+            <summary>Change password (authenticated)</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.AuthController.VerifyEmail(System.String,System.String,System.Threading.CancellationToken)">
+            <summary>Verify email address</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.AuthController.ResendVerification(Blockchain.Application.DTOs.Auth.ForgotPasswordDto,System.Threading.CancellationToken)">
+            <summary>Resend verification email</summary>
+        </member>
+        <member name="T:Blockchain.API.Controllers.BlockchainController">
+            <summary>Public blockchain data queries</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.BlockchainController.GetBalance(System.String,Blockchain.Domain.Enums.NetworkType,System.Threading.CancellationToken)">
+            <summary>Get balance for any address</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.BlockchainController.GetLatestBlock(Blockchain.Domain.Enums.NetworkType,System.Threading.CancellationToken)">
+            <summary>Get latest block number</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.BlockchainController.GetGasPrice(Blockchain.Domain.Enums.NetworkType,System.Threading.CancellationToken)">
+            <summary>Get gas price (Gwei)</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.BlockchainController.ValidateAddress(System.String,System.Threading.CancellationToken)">
+            <summary>Validate an Ethereum address</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.BlockchainController.GetTxReceipt(System.String,Blockchain.Domain.Enums.NetworkType,System.Threading.CancellationToken)">
+            <summary>Get transaction receipt from blockchain</summary>
+        </member>
+        <member name="T:Blockchain.API.Controllers.NotificationController">
+            <summary>User notifications</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.NotificationController.GetAll(Blockchain.Application.Common.PaginationQuery,System.Threading.CancellationToken)">
+            <summary>Get all notifications</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.NotificationController.UnreadCount(System.Threading.CancellationToken)">
+            <summary>Get unread count</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.NotificationController.MarkRead(System.Guid,System.Threading.CancellationToken)">
+            <summary>Mark notification as read</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.NotificationController.MarkAllRead(System.Threading.CancellationToken)">
+            <summary>Mark all as read</summary>
+        </member>
+        <member name="T:Blockchain.API.Controllers.SmartContractController">
+            <summary>Smart contract management and interaction</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.SmartContractController.Add(Blockchain.Application.DTOs.Contract.AddContractDto,System.Threading.CancellationToken)">
+            <summary>Add/register a smart contract</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.SmartContractController.GetAll(Blockchain.Application.Common.PaginationQuery,System.Threading.CancellationToken)">
+            <summary>Get all my contracts (paginated)</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.SmartContractController.GetById(System.Guid,System.Threading.CancellationToken)">
+            <summary>Get contract by ID</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.SmartContractController.CallFunction(Blockchain.Application.DTOs.Contract.CallContractDto,System.Threading.CancellationToken)">
+            <summary>Call (read) a contract function</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.SmartContractController.SendTransaction(Blockchain.Application.DTOs.Contract.SendContractTxDto,System.Threading.CancellationToken)">
+            <summary>Send a state-changing contract transaction</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.SmartContractController.Delete(System.Guid,System.Threading.CancellationToken)">
+            <summary>Remove a contract</summary>
+        </member>
+        <member name="T:Blockchain.API.Controllers.TransactionController">
+            <summary>Blockchain transactions</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.TransactionController.Send(Blockchain.Application.DTOs.Transaction.SendTransactionDto,System.Threading.CancellationToken)">
+            <summary>Send ETH transaction</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.TransactionController.GetAll(Blockchain.Application.Common.PaginationQuery,System.Threading.CancellationToken)">
+            <summary>Get all my transactions (paginated)</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.TransactionController.GetById(System.Guid,System.Threading.CancellationToken)">
+            <summary>Get transaction by ID</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.TransactionController.GetByHash(System.String,System.Threading.CancellationToken)">
+            <summary>Get transaction by blockchain hash</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.TransactionController.GetWalletTransactions(System.Guid,Blockchain.Application.Common.PaginationQuery,System.Threading.CancellationToken)">
+            <summary>Get transactions for a specific wallet</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.TransactionController.SyncStatus(System.Guid,System.Threading.CancellationToken)">
+            <summary>Sync transaction status from blockchain</summary>
+        </member>
+        <member name="T:Blockchain.API.Controllers.UserController">
+            <summary>User profile management</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.UserController.GetProfile(System.Threading.CancellationToken)">
+            <summary>Get my profile</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.UserController.UpdateProfile(Blockchain.Application.DTOs.User.UpdateProfileDto,System.Threading.CancellationToken)">
+            <summary>Update my profile</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.UserController.DeleteAccount(System.String,System.Threading.CancellationToken)">
+            <summary>Delete my account</summary>
+        </member>
+        <member name="T:Blockchain.API.Controllers.WalletController">
+            <summary>Wallet management</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.WalletController.Create(Blockchain.Application.DTOs.Wallet.CreateWalletDto,System.Threading.CancellationToken)">
+            <summary>Create or import a wallet</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.WalletController.GetAll(Blockchain.Application.Common.PaginationQuery,System.Threading.CancellationToken)">
+            <summary>Get all wallets (paginated)</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.WalletController.GetById(System.Guid,System.Threading.CancellationToken)">
+            <summary>Get wallet by ID</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.WalletController.Update(System.Guid,Blockchain.Application.DTOs.Wallet.UpdateWalletDto,System.Threading.CancellationToken)">
+            <summary>Update wallet</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.WalletController.Delete(System.Guid,System.Threading.CancellationToken)">
+            <summary>Delete wallet</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.WalletController.SyncBalance(System.Guid,System.Threading.CancellationToken)">
+            <summary>Sync wallet balance from blockchain</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.WalletController.SetDefault(System.Guid,System.Threading.CancellationToken)">
+            <summary>Set as default wallet</summary>
+        </member>
+        <member name="M:Blockchain.API.Controllers.WalletController.ExportPrivateKey(System.Guid,System.String,System.Threading.CancellationToken)">
+            <summary>Export private key (use with caution!)</summary>
+        </member>
+    </members>
+</doc>

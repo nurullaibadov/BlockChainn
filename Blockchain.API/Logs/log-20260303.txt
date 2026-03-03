@@ -1,0 +1,181 @@
+2026-03-03 15:46:50.757 +04:00 [WRN] Entity 'SmartContract' has a global query filter defined and is the required end of a relationship with the entity 'ContractInteraction'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-03-03 15:46:50.916 +04:00 [WRN] No store type was specified for the decimal property 'Difficulty' on entity type 'Block'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 15:46:50.917 +04:00 [WRN] No store type was specified for the decimal property 'GasUsed' on entity type 'ContractInteraction'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 15:46:51.288 +04:00 [WRN] Entity 'SmartContract' has a global query filter defined and is the required end of a relationship with the entity 'ContractInteraction'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-03-03 15:46:51.301 +04:00 [WRN] No store type was specified for the decimal property 'Difficulty' on entity type 'Block'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 15:46:51.301 +04:00 [WRN] No store type was specified for the decimal property 'GasUsed' on entity type 'ContractInteraction'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 15:50:32.236 +04:00 [WRN] Entity 'SmartContract' has a global query filter defined and is the required end of a relationship with the entity 'ContractInteraction'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-03-03 15:50:32.347 +04:00 [WRN] No store type was specified for the decimal property 'Difficulty' on entity type 'Block'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 15:50:32.348 +04:00 [WRN] No store type was specified for the decimal property 'GasUsed' on entity type 'ContractInteraction'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 15:53:05.140 +04:00 [WRN] Entity 'SmartContract' has a global query filter defined and is the required end of a relationship with the entity 'ContractInteraction'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-03-03 15:53:05.237 +04:00 [WRN] No store type was specified for the decimal property 'Difficulty' on entity type 'Block'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 15:53:05.237 +04:00 [WRN] No store type was specified for the decimal property 'GasUsed' on entity type 'ContractInteraction'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 15:53:06.076 +04:00 [WRN] Entity 'SmartContract' has a global query filter defined and is the required end of a relationship with the entity 'ContractInteraction'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-03-03 15:53:06.089 +04:00 [WRN] No store type was specified for the decimal property 'Difficulty' on entity type 'Block'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 15:53:06.090 +04:00 [WRN] No store type was specified for the decimal property 'GasUsed' on entity type 'ContractInteraction'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 15:53:26.494 +04:00 [ERR] Failed executing DbCommand (56ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [ContractInteractions] (
+    [Id] uniqueidentifier NOT NULL,
+    [ContractId] uniqueidentifier NOT NULL,
+    [UserId] uniqueidentifier NOT NULL,
+    [FunctionName] nvarchar(max) NOT NULL,
+    [InputData] nvarchar(max) NULL,
+    [OutputData] nvarchar(max) NULL,
+    [TxHash] nvarchar(max) NULL,
+    [Status] int NOT NULL,
+    [GasUsed] decimal(18,2) NOT NULL,
+    [ErrorMessage] nvarchar(max) NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    [UpdatedAt] datetime2 NULL,
+    [IsDeleted] bit NOT NULL,
+    [CreatedBy] nvarchar(max) NULL,
+    [UpdatedBy] nvarchar(max) NULL,
+    [CreatedByUserId] uniqueidentifier NULL,
+    [UpdatedByUserId] uniqueidentifier NULL,
+    CONSTRAINT [PK_ContractInteractions] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_ContractInteractions_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_ContractInteractions_SmartContracts_ContractId] FOREIGN KEY ([ContractId]) REFERENCES [SmartContracts] ([Id]) ON DELETE CASCADE
+);
+2026-03-03 15:57:30.029 +04:00 [WRN] Entity 'SmartContract' has a global query filter defined and is the required end of a relationship with the entity 'ContractInteraction'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-03-03 15:57:30.114 +04:00 [WRN] No store type was specified for the decimal property 'Difficulty' on entity type 'Block'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 15:57:30.115 +04:00 [WRN] No store type was specified for the decimal property 'GasUsed' on entity type 'ContractInteraction'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 15:57:30.416 +04:00 [WRN] Entity 'SmartContract' has a global query filter defined and is the required end of a relationship with the entity 'ContractInteraction'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-03-03 15:57:30.425 +04:00 [WRN] No store type was specified for the decimal property 'Difficulty' on entity type 'Block'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 15:57:30.425 +04:00 [WRN] No store type was specified for the decimal property 'GasUsed' on entity type 'ContractInteraction'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 15:57:57.247 +04:00 [WRN] Entity 'SmartContract' has a global query filter defined and is the required end of a relationship with the entity 'ContractInteraction'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-03-03 15:57:57.333 +04:00 [WRN] No store type was specified for the decimal property 'Difficulty' on entity type 'Block'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 15:57:57.333 +04:00 [WRN] No store type was specified for the decimal property 'GasUsed' on entity type 'ContractInteraction'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 15:57:59.506 +04:00 [ERR] Failed executing DbCommand (59ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Transactions] (
+    [Id] uniqueidentifier NOT NULL,
+    [UserId] uniqueidentifier NOT NULL,
+    [FromWalletId] uniqueidentifier NULL,
+    [ToWalletId] uniqueidentifier NULL,
+    [FromAddress] nvarchar(100) NOT NULL,
+    [ToAddress] nvarchar(100) NOT NULL,
+    [Amount] decimal(36,18) NOT NULL,
+    [GasPrice] decimal(36,18) NOT NULL,
+    [GasUsed] decimal(36,18) NOT NULL,
+    [Fee] decimal(36,18) NOT NULL,
+    [TxHash] nvarchar(100) NULL,
+    [BlockHash] nvarchar(max) NULL,
+    [BlockNumber] bigint NULL,
+    [Status] int NOT NULL,
+    [Type] int NOT NULL,
+    [Network] int NOT NULL,
+    [Notes] nvarchar(max) NULL,
+    [ConfirmedAt] datetime2 NULL,
+    [RawData] nvarchar(max) NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    [UpdatedAt] datetime2 NULL,
+    [IsDeleted] bit NOT NULL,
+    [CreatedBy] nvarchar(max) NULL,
+    [UpdatedBy] nvarchar(max) NULL,
+    [CreatedByUserId] uniqueidentifier NULL,
+    [UpdatedByUserId] uniqueidentifier NULL,
+    CONSTRAINT [PK_Transactions] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_Transactions_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE NO ACTION,
+    CONSTRAINT [FK_Transactions_Wallets_FromWalletId] FOREIGN KEY ([FromWalletId]) REFERENCES [Wallets] ([Id]) ON DELETE SET NULL,
+    CONSTRAINT [FK_Transactions_Wallets_ToWalletId] FOREIGN KEY ([ToWalletId]) REFERENCES [Wallets] ([Id]) ON DELETE SET NULL
+);
+2026-03-03 15:59:44.708 +04:00 [WRN] Entity 'SmartContract' has a global query filter defined and is the required end of a relationship with the entity 'ContractInteraction'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-03-03 15:59:44.804 +04:00 [WRN] No store type was specified for the decimal property 'Difficulty' on entity type 'Block'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 15:59:44.804 +04:00 [WRN] No store type was specified for the decimal property 'GasUsed' on entity type 'ContractInteraction'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 15:59:46.338 +04:00 [ERR] Failed executing DbCommand (55ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Transactions] (
+    [Id] uniqueidentifier NOT NULL,
+    [UserId] uniqueidentifier NOT NULL,
+    [FromWalletId] uniqueidentifier NULL,
+    [ToWalletId] uniqueidentifier NULL,
+    [FromAddress] nvarchar(100) NOT NULL,
+    [ToAddress] nvarchar(100) NOT NULL,
+    [Amount] decimal(36,18) NOT NULL,
+    [GasPrice] decimal(36,18) NOT NULL,
+    [GasUsed] decimal(36,18) NOT NULL,
+    [Fee] decimal(36,18) NOT NULL,
+    [TxHash] nvarchar(100) NULL,
+    [BlockHash] nvarchar(max) NULL,
+    [BlockNumber] bigint NULL,
+    [Status] int NOT NULL,
+    [Type] int NOT NULL,
+    [Network] int NOT NULL,
+    [Notes] nvarchar(max) NULL,
+    [ConfirmedAt] datetime2 NULL,
+    [RawData] nvarchar(max) NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    [UpdatedAt] datetime2 NULL,
+    [IsDeleted] bit NOT NULL,
+    [CreatedBy] nvarchar(max) NULL,
+    [UpdatedBy] nvarchar(max) NULL,
+    [CreatedByUserId] uniqueidentifier NULL,
+    [UpdatedByUserId] uniqueidentifier NULL,
+    CONSTRAINT [PK_Transactions] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_Transactions_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [AspNetUsers] ([Id]) ON DELETE NO ACTION,
+    CONSTRAINT [FK_Transactions_Wallets_FromWalletId] FOREIGN KEY ([FromWalletId]) REFERENCES [Wallets] ([Id]) ON DELETE SET NULL,
+    CONSTRAINT [FK_Transactions_Wallets_ToWalletId] FOREIGN KEY ([ToWalletId]) REFERENCES [Wallets] ([Id]) ON DELETE SET NULL
+);
+2026-03-03 16:00:13.594 +04:00 [WRN] Entity 'SmartContract' has a global query filter defined and is the required end of a relationship with the entity 'ContractInteraction'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-03-03 16:00:13.683 +04:00 [WRN] No store type was specified for the decimal property 'Difficulty' on entity type 'Block'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 16:00:13.684 +04:00 [WRN] No store type was specified for the decimal property 'GasUsed' on entity type 'ContractInteraction'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 16:00:13.900 +04:00 [WRN] Entity 'SmartContract' has a global query filter defined and is the required end of a relationship with the entity 'ContractInteraction'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-03-03 16:00:13.906 +04:00 [WRN] No store type was specified for the decimal property 'Difficulty' on entity type 'Block'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 16:00:13.906 +04:00 [WRN] No store type was specified for the decimal property 'GasUsed' on entity type 'ContractInteraction'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 16:00:22.232 +04:00 [WRN] Entity 'SmartContract' has a global query filter defined and is the required end of a relationship with the entity 'ContractInteraction'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-03-03 16:00:22.338 +04:00 [WRN] No store type was specified for the decimal property 'Difficulty' on entity type 'Block'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 16:00:22.338 +04:00 [WRN] No store type was specified for the decimal property 'GasUsed' on entity type 'ContractInteraction'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 16:00:22.512 +04:00 [WRN] Entity 'SmartContract' has a global query filter defined and is the required end of a relationship with the entity 'ContractInteraction'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-03-03 16:00:22.518 +04:00 [WRN] No store type was specified for the decimal property 'Difficulty' on entity type 'Block'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 16:00:22.518 +04:00 [WRN] No store type was specified for the decimal property 'GasUsed' on entity type 'ContractInteraction'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 16:00:31.709 +04:00 [WRN] Entity 'SmartContract' has a global query filter defined and is the required end of a relationship with the entity 'ContractInteraction'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-03-03 16:00:31.799 +04:00 [WRN] No store type was specified for the decimal property 'Difficulty' on entity type 'Block'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 16:00:31.799 +04:00 [WRN] No store type was specified for the decimal property 'GasUsed' on entity type 'ContractInteraction'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 16:00:54.165 +04:00 [WRN] Entity 'SmartContract' has a global query filter defined and is the required end of a relationship with the entity 'ContractInteraction'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-03-03 16:00:54.240 +04:00 [WRN] No store type was specified for the decimal property 'Difficulty' on entity type 'Block'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 16:00:54.241 +04:00 [WRN] No store type was specified for the decimal property 'GasUsed' on entity type 'ContractInteraction'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 16:01:12.792 +04:00 [WRN] Entity 'SmartContract' has a global query filter defined and is the required end of a relationship with the entity 'ContractInteraction'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-03-03 16:01:12.940 +04:00 [WRN] No store type was specified for the decimal property 'Difficulty' on entity type 'Block'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 16:01:12.942 +04:00 [WRN] No store type was specified for the decimal property 'GasUsed' on entity type 'ContractInteraction'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 16:01:55.997 +04:00 [INF] Start installing Hangfire SQL objects...
+2026-03-03 16:02:54.306 +04:00 [INF] Hangfire SQL objects installed.
+2026-03-03 16:02:56.199 +04:00 [INF] Starting Hangfire Server using job storage: 'SQL Server: NIKO\SQLEXPRESS@BlockchainDb'
+2026-03-03 16:02:56.203 +04:00 [INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+2026-03-03 16:02:56.206 +04:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2026-03-03 16:02:56.405 +04:00 [INF] Server niko:11596:caa24dbe successfully announced in 60.3478 ms
+2026-03-03 16:02:56.413 +04:00 [INF] Server niko:11596:caa24dbe is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2026-03-03 16:02:56.424 +04:00 [INF] Server niko:11596:caa24dbe all the dispatchers started
+2026-03-03 16:03:06.506 +04:00 [INF] HTTP GET /swagger responded 404 in 2151.6121 ms
+2026-03-03 16:03:06.522 +04:00 [INF] HTTP GET /swagger → 404 in 2172ms
+2026-03-03 16:03:09.606 +04:00 [INF] HTTP GET /swagger responded 404 in 4.0754 ms
+2026-03-03 16:03:09.612 +04:00 [INF] HTTP GET /swagger → 404 in 10ms
+2026-03-03 16:03:13.814 +04:00 [INF] HTTP GET /swagger/index responded 404 in 2.9289 ms
+2026-03-03 16:03:13.819 +04:00 [INF] HTTP GET /swagger/index → 404 in 7ms
+2026-03-03 16:03:14.783 +04:00 [INF] HTTP GET /swagger/index responded 404 in 0.8486 ms
+2026-03-03 16:03:14.788 +04:00 [INF] HTTP GET /swagger/index → 404 in 6ms
+2026-03-03 16:04:23.384 +04:00 [INF] HTTP GET /swagger/index.html responded 404 in 0.5279 ms
+2026-03-03 16:04:23.391 +04:00 [INF] HTTP GET /swagger/index.html → 404 in 19ms
+2026-03-03 16:06:04.611 +04:00 [WRN] Entity 'SmartContract' has a global query filter defined and is the required end of a relationship with the entity 'ContractInteraction'. This may lead to unexpected results when the required entity is filtered out. Either configure the navigation as optional, or define matching query filters for both entities in the navigation. See https://go.microsoft.com/fwlink/?linkid=2131316 for more information.
+2026-03-03 16:06:04.762 +04:00 [WRN] No store type was specified for the decimal property 'Difficulty' on entity type 'Block'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 16:06:04.771 +04:00 [WRN] No store type was specified for the decimal property 'GasUsed' on entity type 'ContractInteraction'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+2026-03-03 16:06:07.905 +04:00 [INF] Start installing Hangfire SQL objects...
+2026-03-03 16:06:11.667 +04:00 [INF] Hangfire SQL objects installed.
+2026-03-03 16:06:12.352 +04:00 [INF] Starting Hangfire Server using job storage: 'SQL Server: NIKO\SQLEXPRESS@BlockchainDb'
+2026-03-03 16:06:12.354 +04:00 [INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+2026-03-03 16:06:12.359 +04:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15
+2026-03-03 16:06:12.428 +04:00 [INF] Server niko:6180:1f866877 successfully announced in 45.423 ms
+2026-03-03 16:06:12.432 +04:00 [INF] Server niko:6180:1f866877 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, SqlServerHeartbeatProcess, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2026-03-03 16:06:12.443 +04:00 [INF] Server niko:6180:1f866877 all the dispatchers started
+2026-03-03 16:06:30.613 +04:00 [WRN] Stopping the server due to DomainUnload or ProcessExit event...
+2026-03-03 16:06:30.618 +04:00 [INF] Server niko:6180:1f866877 caught stopping signal...
+2026-03-03 16:06:30.621 +04:00 [INF] Server niko:6180:1f866877 caught stopped signal...
+2026-03-03 16:06:30.622 +04:00 [WRN] Server niko:6180:1f866877 caught shutdown signal...
+2026-03-03 16:06:30.630 +04:00 [WRN] Server niko:6180:1f866877 stopped non-gracefully due to SqlServerHeartbeatProcess. Outstanding work on those dispatchers could be aborted, and there can be delays in background processing. This server instance will be incorrectly shown as active for a while. To avoid non-graceful shutdowns, investigate what prevents from stopping gracefully and add CancellationToken support for those methods.
+2026-03-03 16:06:30.704 +04:00 [INF] Server niko:6180:1f866877 successfully reported itself as stopped in 54.5837 ms
+2026-03-03 16:06:30.706 +04:00 [INF] Server niko:6180:1f866877 has been stopped in total 84.6001 ms
